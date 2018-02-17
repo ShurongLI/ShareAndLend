@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#f448a9",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -20,7 +20,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#ef3bb5",
+        "#f448a9"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
@@ -61,7 +64,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Everyone has bought something they only used once or twice, why not to lend it with others. Free or charge, it is your call",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
                 "overlayColor": "#cccccc",
                 "overlayOpacity": "0.4"
               }
@@ -244,13 +247,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -263,7 +266,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f448a9!important"
             }
           },
           "_params": {
@@ -273,7 +276,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#cccccc",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -282,10 +285,12 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ShareAndLend.html\">Publish A Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\">Manage my account</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Find An Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\">Free Items</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\">Lend Items</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ShareAndLend.html\">LOG IN</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/business-plan-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -293,11 +298,10 @@
               "name": "hellocoton",
               "family": "socicon",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Share&amp;Lend</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Shair&amp;Fair</a>",
           "_tags": [
             "Theme"
           ],
