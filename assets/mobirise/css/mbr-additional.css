@@ -487,3 +487,18 @@ h6,
 #social-buttons2-h .btn-social {
   color: #232323;
 }
+#slider-n H2 {
+  text-align: center;
+  font-size: 60px;
+}
+#features4-t .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#social-buttons2-v .mbr-section-title,
+#social-buttons2-v .btn-social {
+  color: #232323;
+}
