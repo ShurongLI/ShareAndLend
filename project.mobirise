@@ -333,10 +333,10 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#faaf40"
+              "color": "#ffffff"
             },
             ".lead P": {
-              "color": "#faaf40"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -359,7 +359,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "How Can I Trust Strangers?",
-          "text": "<p>We have a credit system to help you</p><p>A feedback from other lenders on strangers' account</p>",
+          "text": "<p>We have a credit system to help you</p><p>Feedback from other lenders on strangers' account</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -412,7 +412,7 @@
           },
           "title": "A Credit Scores",
           "text": "You will have a credit scores on your account,<br>The higher credit scores you have,<br>The more things you can borrow.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
