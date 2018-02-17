@@ -61,7 +61,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Everyone has bought something they only used once or twice, why not to lend it with others. Free or charge, it is your call",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
                 "overlayColor": "#cccccc",
                 "overlayOpacity": "0.4"
               }
