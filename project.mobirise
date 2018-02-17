@@ -61,7 +61,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Everyone has bought something they only used once or twice, why not to lend it with others. Free or charge, it is your call",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Share for free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">Lend</a>",
                 "overlayColor": "#cccccc",
                 "overlayOpacity": "0.4"
               }
@@ -133,7 +133,7 @@
               "name": "edit",
               "family": "et-line",
               "active": true,
-              "link": "#bottom",
+              "link": "https://shurongli.github.io/ShareAndLend/ShareAndLend.html",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -146,9 +146,10 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://shurongli.github.io/ShareAndLend/ShareAndLend.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media4": {
@@ -158,9 +159,10 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://shurongli.github.io/ShareAndLend/ShareAndLend.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media5": {
@@ -277,7 +279,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ShareAndLend.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ShareAndLend.html\">Publish A Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ShareAndLend.html\">Manage my account</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Find An Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Free Items</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Lend Items</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ShareAndLend.html\">LOG IN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://shurongli.github.io/ShareAndLend/ShareAndLend.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ShareAndLend.html\">Publish A Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ShareAndLend.html\">Manage my account</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Find An Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Free Items</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Lend Items</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ShareAndLend.html\">LOG IN</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
