@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Share&amp;Lend-clone",
-    "currentPage": "page1.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -394,7 +394,7 @@
         }
       ]
     },
-    "page1.html": {
+    ".html": {
       "settings": {
         "title": "Page 1",
         "meta_descr": "",
