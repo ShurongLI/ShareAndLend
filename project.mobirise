@@ -622,7 +622,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "44",
+            "imageSize": "42",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -642,7 +642,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fico-credit-scores-1-850x550.png",
+              "src": "@PROJECT_PATH@/assets/images/aaeaaqaaaaaaaa3daaaajde4mmfin2zkltq0m2itndrhys1hmtk4ltc5nwqymdcwmgexzq-720x741.png",
               "link": "",
               "alt": "",
               "title": ""
