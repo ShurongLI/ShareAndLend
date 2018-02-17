@@ -349,8 +349,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#475577",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
           },
           "title": "How Can I Trust Strangers?",
           "text": "<p>We have a credit system to help you</p><p>A feedback from other lenders on strangers' account</p>",
