@@ -331,6 +331,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            },
+            ".lead P": {
+              "color": "#faaf40"
             }
           },
           "_params": {

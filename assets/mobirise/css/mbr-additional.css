@@ -487,6 +487,12 @@ h6,
 #msg-box8-14 p {
   color: #fff;
 }
+#msg-box8-14 .mbr-section-title {
+  color: #faaf40;
+}
+#msg-box8-14 .lead P {
+  color: #faaf40;
+}
 #social-buttons2-16 .mbr-section-title,
 #social-buttons2-16 .btn-social {
   color: #232323;
