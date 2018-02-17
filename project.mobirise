@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 10,
+    "uniqCompNum": 18,
     "versionPublish": "4.6.4",
     "screenshot": "screenshot.png"
   },
@@ -307,6 +307,69 @@
           ],
           "_name": "menu",
           "_anchor": "menu-9"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            },
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "bgColor": "#ffffff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Shair&amp;Fair.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-h"
         }
       ]
     }
