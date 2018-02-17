@@ -498,6 +498,10 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#msg-box8-x .mbr-section-title,
+#msg-box8-x p {
+  color: #fff;
+}
 #social-buttons2-v .mbr-section-title,
 #social-buttons2-v .btn-social {
   color: #232323;
