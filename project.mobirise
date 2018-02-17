@@ -311,9 +311,10 @@
         {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "EM Strasbourg business school",
+              "placeId": "ChIJiV7cY-PIlkcRhy1FZgjsySg",
+              "state": "ok",
+              "stateDetails": ""
             },
             "paddingTop": "4",
             "paddingBottom": 4,
