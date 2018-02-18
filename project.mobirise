@@ -373,7 +373,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "42",
+            "imageSize": "65",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -393,7 +393,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aaeaaqaaaaaaaa3daaaajde4mmfin2zkltq0m2itndrhys1hmtk4ltc5nwqymdcwmgexzq-720x741.png",
+              "src": "@PROJECT_PATH@/assets/images/8ff98b973-620x369.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -410,14 +410,22 @@
               "size": 0
             }
           },
-          "title": "A Credit Scores",
-          "text": "You will have a credit scores on your account,<br>The higher credit scores you have,<br>The more things you can borrow.",
+          "title": "A Credit Scores<br>&amp;<br>Blockchain Tech",
+          "text": "You will have a credit scores on your account,<br>The higher credit scores you have, The more things you can borrow.<br><br>Borrower put deposit managing by Blockchain technology as a sucurity for the items. It will be pay back once the lender comfirm the returen items is good.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ShareAndLend.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-15"
+          "_anchor": "msg-box5-15",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
