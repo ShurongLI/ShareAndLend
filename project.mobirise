@@ -215,7 +215,7 @@
               "name": "contact-form",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "ShareAndLend.html#features4-5",
+              "link": "ShareAndLend.html#features3-18",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -228,7 +228,7 @@
               "name": "credit-card",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://shurongli.github.io/ShareAndLend/ShareAndLend.html",
+              "link": "ShareAndLend.html#msg-box5-15",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -254,7 +254,7 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://shurongli.github.io/ShareAndLend/ShareAndLend.html",
+              "link": "ShareAndLend.html#map2-13",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -267,9 +267,10 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "ShareAndLend.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media6": {
