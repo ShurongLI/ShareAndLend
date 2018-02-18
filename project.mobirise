@@ -209,8 +209,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "credit-card",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "ShareAndLend.html#features4-5",
               "size": 0,
