@@ -588,10 +588,10 @@
           "description2": "",
           "description3": "More details",
           "description4": "More details",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>",
           "_tags": [
             "Theme"
           ],
