@@ -502,6 +502,23 @@ h6,
 #msg-box5-15 H3 {
   text-align: center;
 }
+#pricing-table2-19 .mbr-plan-header,
+#pricing-table2-19 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-19 ul,
+#pricing-table2-19 .mbr-plan-title,
+#pricing-table2-19 .mbr-price-value,
+#pricing-table2-19 .mbr-price-figure,
+#pricing-table2-19 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-19 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-19 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
 #social-buttons2-16 .mbr-section-title,
 #social-buttons2-16 .btn-social {
   color: #232323;
