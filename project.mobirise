@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "4.6.4",
     "screenshot": "screenshot.png"
   },
@@ -540,7 +540,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BORROW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BORROW</a>",
           "button4": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BORROW</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEND TO HIM</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"ShareAndLend.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEND TO HIM</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
