@@ -501,7 +501,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/business-plan-items-7-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/business-plan-items-8-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
